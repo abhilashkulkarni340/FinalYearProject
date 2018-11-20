@@ -9,6 +9,8 @@ Check python version, it should be 3.6.6:
 
 `$ python --version`
 
+if it shows `python is not a command` the path variable hasn't been set. set the PATH variable.
+
 Download python environment :
 
 `$ pip install virtualenv`
