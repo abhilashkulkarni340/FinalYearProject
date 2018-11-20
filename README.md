@@ -21,6 +21,8 @@ Create virtual environment :
  
  `$ project\Scripts\activate `
  
+ (for macOS) `$ source project\bin\activate`
+ 
  Create the environment of the project :
  Move the requirements.txt file outside project folder and run :
  
@@ -33,3 +35,5 @@ Create virtual environment :
 Closing the environment :
 
 `$ project\Scripts\deactivate`
+
+(for macOS) `$ deactivate`
