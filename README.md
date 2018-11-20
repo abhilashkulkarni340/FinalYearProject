@@ -32,4 +32,4 @@ Create virtual environment :
 
 Closing the environment :
 
-`$ project\Scripts\deactivate
+`$ project\Scripts\deactivate`
